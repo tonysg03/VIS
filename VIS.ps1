@@ -27,3 +27,5 @@ if (Test-Path $home\Desktop -PathType Container){
     (gc $_) -replace "Desktop","Escritorio" |Set-Content $_.fullname
     }
 }
+
+Write-Output "Creado por el Bach. Anthony Segura García en colaboración entre la Univesidad de Costa Rica y el Instituto Meteorológico Nacional de Costa Rica"
