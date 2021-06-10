@@ -28,4 +28,4 @@ if (Test-Path $home\Desktop -PathType Container){
     }
 }
 
-Write-Output "Creado por el Bach. Anthony Segura García en colaboración entre la Univesidad de Costa Rica y el Instituto Meteorológico Nacional de Costa Rica"
+Write-Output "Creado por el Bach. Anthony Segura García en colaboración entre la Universidad de Costa Rica y el Instituto Meteorológico Nacional de Costa Rica"
